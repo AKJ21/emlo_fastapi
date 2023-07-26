@@ -1,0 +1,3 @@
+tiktoken==0.4.0
+fastapi[all]==0.98.0
+gunicorn==20.1.0
